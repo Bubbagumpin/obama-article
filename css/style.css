@@ -1,0 +1,87 @@
+h1{
+	font-size: 70px;
+}
+h2{
+	font-size: 40px;
+}
+
+.nav{
+	float: left;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #2E86C1;
+	color: white;
+	margin: 5px;
+	display: inline-block;
+}
+.navbar{
+	background-color: #2E86C1;
+}
+.left{
+	margin-bottom: 10px;
+}
+.main-paragraph{
+	display: block;
+	font-family: helvetica;
+	font-size: 18px;
+}
+.breaking{
+	margin-top: 20px; 
+}
+p{
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+.mainphoto{
+	width: 100%;
+	height: 100%;
+}
+.byline{
+	color: #ADADAD;
+	display: inline-block;
+	padding-right: 10px;
+	
+}
+.line{
+	border: solid #BCBCBC 1px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+.footer{
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 12px;
+	color: #EF1B1B; 
+}
+.facebook{
+	padding: 12px;
+	background-color: #3C4D96;
+	color: white;
+	margin-top: 10px;
+	font-family: helvetica;
+}
+.twitter{
+	padding: 12px;
+	background-color: #C2CEFF;
+	color: white;
+	margin-top: 10px;
+	font-family: helvetica;
+}
+.media{
+	border-bottom: solid grey 1px;
+	padding-bottom: 10px;
+}
+.connect{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.main-sidebar{
+	margin-top: 20px;
+}
+.breakline{
+	border-bottom: solid grey 1px;
+
+}
